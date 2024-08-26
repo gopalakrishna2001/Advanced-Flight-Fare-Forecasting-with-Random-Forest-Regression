@@ -22,4 +22,16 @@ To forcast domestic flight price using random forest regression.
 - ![image](https://github.com/user-attachments/assets/456d92f1-9a0b-4510-9904-d824532f77de)
 - Flights by Destination
 - ![image](https://github.com/user-attachments/assets/93f668ca-4820-4c9d-8eec-28a234e78693)
-
+# Feature Engineering
+- Nominal encoding
+- Onehot encoding
+# Feature Selection
+- Feature Importance
+- Mutual Info Gain
+# Machine Learning Algorithm
+- Random Forest Regression
+- Test/Train split= 80:20
+# Metrics to evaluate Model Prediction
+- Mean Square Error
+- Mean Absolute Error
+- RMSE
